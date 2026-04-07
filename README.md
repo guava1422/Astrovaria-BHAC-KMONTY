@@ -1,0 +1,1 @@
+This repository functions as middle point to install two radiative transfer code rad-BHAC and Kmonty, to model the spectrum of accreting black hole. here we focuse on SgrA*, such that the plotting scripts and data are included. The jupyter notebook functions as instructions to install the codes as well as a written report on my Astrovaria project.
